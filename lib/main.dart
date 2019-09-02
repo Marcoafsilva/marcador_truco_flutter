@@ -9,5 +9,5 @@ void main() {
       theme: ThemeData(primarySwatch: Colors.deepOrange),
       home: HomePage(),
     )
-  )
+  );
 }
